@@ -1,0 +1,9 @@
+{
+  "python.pythonPath": "",
+  "editor.formatOnSave": true,
+  "python.analysis.completeFunctionParens": true,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python"
+  },
+  "files.autoSave": "onFocusChange"
+}
